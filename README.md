@@ -1,8 +1,4 @@
 #### Git and GitHub Tutorials
 
-## Riyan Mishra
+## Welcome to Branch and Merge to Main branch
 
-## I m your Mother
-## How is your exam
-
-## Excellent
